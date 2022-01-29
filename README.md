@@ -1,7 +1,12 @@
 # README
 
+Faker for ruby seed
+
+  https://github.com/faker-ruby/faker
+
 Ruby freecodecamp latest
-https://www.youtube.com/playlist?list=PLXyaJdqse4SyxWiumGwzf2br8YYIlxagW
+
+  https://www.youtube.com/playlist?list=PLXyaJdqse4SyxWiumGwzf2br8YYIlxagW
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -13,8 +18,12 @@ ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [x86_64-darwin21]
 
 * System dependencies
 
+  rack-cors
+  faker
+  
 * Configuration
-Created with rails new 
+
+  
 * Database creation
 
 * Database initialization
@@ -26,5 +35,7 @@ Created with rails new
 * Deployment instructions
 Deployed with heroku
 * ...
+
+
 
 
