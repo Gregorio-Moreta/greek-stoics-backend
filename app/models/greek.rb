@@ -1,0 +1,2 @@
+class Greek < ApplicationRecord
+end

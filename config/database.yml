@@ -81,6 +81,4 @@ test:
 #
 production:
   <<: *default
-  database: greeks_production
-  username: greeks
-  password: <%= ENV['GREEKS_DATABASE_PASSWORD'] %>
+  url: <%= ENV['DATABASE_URL'] %>
